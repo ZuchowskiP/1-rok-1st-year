@@ -6,7 +6,6 @@
 #include<signal.h>
 #include<time.h>
 
-
 static void sig_usr(int);
 FILE *new;
 
@@ -31,7 +30,6 @@ int main(int argc, char *argv[]){
         pause();
     }
     
-
 
 }
 static void sig_usr(int signo)
