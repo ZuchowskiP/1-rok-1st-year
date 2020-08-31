@@ -4,7 +4,6 @@
 #include<sys/wait.h>
 #include<unistd.h>
 
-
 int main(){
     FILE *new;
     pid_t fork_pid;
