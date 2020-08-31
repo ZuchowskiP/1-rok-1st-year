@@ -6,7 +6,6 @@
 #include<unistd.h>
 #include<string.h>
 
-
 int randoRange(int lower, int upper)
 {
 
